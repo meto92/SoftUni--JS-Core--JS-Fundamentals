@@ -1,0 +1,1 @@
+([trackName, artistName, duration]) => `Now Playing: ${artistName} - ${trackName} [${duration}]`;

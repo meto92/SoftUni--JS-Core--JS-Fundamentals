@@ -1,0 +1,1 @@
+(string, n) => string.repeat(+n);

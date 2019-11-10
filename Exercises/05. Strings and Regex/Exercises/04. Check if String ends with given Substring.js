@@ -1,0 +1,1 @@
+(string, substring) => string.endsWith(substring);
